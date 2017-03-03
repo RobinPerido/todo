@@ -87,3 +87,7 @@ a:hover {
 form input[type=checkbox] {
 	display: inline;
 }
+
+label {
+	cursor: pointer;
+}
